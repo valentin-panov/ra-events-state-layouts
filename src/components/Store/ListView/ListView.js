@@ -1,6 +1,6 @@
 import React from 'react';
 import './ListView.css';
-import ShopItem from './ShopItem/ShopItem.jsx';
+import ShopItem from './ShopItem/ShopItem';
 
 export default function ListView({ items }) {
   return (
